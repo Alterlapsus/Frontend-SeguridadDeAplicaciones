@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alterlapsus/Frontend-SeguridadDeAplicaciones.git/static/css/main.12115333.css",
+    "main.js": "/Alterlapsus/Frontend-SeguridadDeAplicaciones.git/static/js/main.e7937338.js",
+    "index.html": "/Alterlapsus/Frontend-SeguridadDeAplicaciones.git/index.html",
+    "main.12115333.css.map": "/Alterlapsus/Frontend-SeguridadDeAplicaciones.git/static/css/main.12115333.css.map",
+    "main.e7937338.js.map": "/Alterlapsus/Frontend-SeguridadDeAplicaciones.git/static/js/main.e7937338.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12115333.css",
+    "static/js/main.e7937338.js"
+  ]
+}
